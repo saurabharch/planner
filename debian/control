@@ -22,5 +22,4 @@ Standards-Version: 3.9.3
 Package: com.github.alainm23.planner
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends},
-Description: Hey young world
- This is a Hello World written in Vala using Meson build system.
+Description: Task manager with Todoist support designed for GNU/Linux
