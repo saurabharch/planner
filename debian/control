@@ -15,6 +15,7 @@ Build-Depends: appstream,
                libsoup2.4-dev,
                libgranite-dev (>=0.5),
                libwebkit2gtk-4.0-dev,
+               libpeas-dev,
                meson,
                valac (>= 0.40.3)
 Standards-Version: 3.9.3
